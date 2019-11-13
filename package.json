@@ -1,5 +1,5 @@
 {
-  "name": "Expensify App",
+  "name": "despesa",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Raul Barboza",
@@ -50,6 +50,6 @@
     "webpack-dev-server": "2.5.1"
   },
   "engines": {
-    "node": "10.x"
+    "node": "10.6.0"
   }
 }
