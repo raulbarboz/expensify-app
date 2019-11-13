@@ -22,7 +22,7 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "0.28.4",
-    "express": "4.15.4",
+    "express": "^4.17.1",
     "extract-text-webpack-plugin": "3.0.0",
     "firebase": "4.2.0",
     "history": "4.7.2",
@@ -51,5 +51,15 @@
   },
   "engines": {
     "node": "10.6.0"
-  }
+  },
+  "description": "``` https://react-cost-expensify.herokuapp.com/ ``",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulbarboz/expensify-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/raulbarboz/expensify-app/issues"
+  },
+  "homepage": "https://github.com/raulbarboz/expensify-app#readme"
 }
