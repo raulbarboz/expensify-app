@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "Expensify App",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Raul Barboza",
@@ -48,5 +48,8 @@
     "dotenv": "^6.0.0",
     "jest": "20.0.4",
     "webpack-dev-server": "2.5.1"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
